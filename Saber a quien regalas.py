@@ -5,8 +5,6 @@ Created on Fri Dec 11 22:33:38 2020
 @author: Maria Rollan
 """
 
-import random
-import numpy as np
 import pandas as pd
 
 

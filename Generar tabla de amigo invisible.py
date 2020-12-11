@@ -6,7 +6,6 @@ Created on Fri Dec 11 21:19:15 2020
 """
 
 import random
-import numpy as np
 import pandas as pd
 
 
